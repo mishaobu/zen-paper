@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b0ad3a9ec4ba68ad52b31f0dfbf6c74",
+    "revision": "8cb73a1b2b1f257b9ebeb0b491e590b2",
     "url": "/zen-paper/index.html"
   },
   {
-    "revision": "3103d54428849e5c248a",
-    "url": "/zen-paper/static/css/main.1dc583d0.chunk.css"
+    "revision": "fe816719790810473349",
+    "url": "/zen-paper/static/css/main.862721ec.chunk.css"
   },
   {
     "revision": "ccd5c3265f0a54ee141e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zen-paper/static/js/2.02b3af93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3103d54428849e5c248a",
-    "url": "/zen-paper/static/js/main.02683fc3.chunk.js"
+    "revision": "fe816719790810473349",
+    "url": "/zen-paper/static/js/main.7781c0b4.chunk.js"
   },
   {
     "revision": "f36d5ad17e898d7bd0dd",
