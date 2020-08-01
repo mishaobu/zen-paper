@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mishaobu.com/zen-paper/static/css/main.1dc583d0.chunk.css",
+    "main.js": "/mishaobu.com/zen-paper/static/js/main.964112e4.chunk.js",
+    "main.js.map": "/mishaobu.com/zen-paper/static/js/main.964112e4.chunk.js.map",
+    "runtime-main.js": "/mishaobu.com/zen-paper/static/js/runtime-main.9355fc69.js",
+    "runtime-main.js.map": "/mishaobu.com/zen-paper/static/js/runtime-main.9355fc69.js.map",
+    "static/js/2.02b3af93.chunk.js": "/mishaobu.com/zen-paper/static/js/2.02b3af93.chunk.js",
+    "static/js/2.02b3af93.chunk.js.map": "/mishaobu.com/zen-paper/static/js/2.02b3af93.chunk.js.map",
+    "index.html": "/mishaobu.com/zen-paper/index.html",
+    "precache-manifest.047ce7ec40bf93c53979dea7a91244c4.js": "/mishaobu.com/zen-paper/precache-manifest.047ce7ec40bf93c53979dea7a91244c4.js",
+    "service-worker.js": "/mishaobu.com/zen-paper/service-worker.js",
+    "static/css/main.1dc583d0.chunk.css.map": "/mishaobu.com/zen-paper/static/css/main.1dc583d0.chunk.css.map",
+    "static/js/2.02b3af93.chunk.js.LICENSE.txt": "/mishaobu.com/zen-paper/static/js/2.02b3af93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9355fc69.js",
+    "static/js/2.02b3af93.chunk.js",
+    "static/css/main.1dc583d0.chunk.css",
+    "static/js/main.964112e4.chunk.js"
+  ]
+}
