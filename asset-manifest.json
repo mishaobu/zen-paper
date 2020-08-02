@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zen-paper/static/css/main.862721ec.chunk.css",
-    "main.js": "/zen-paper/static/js/main.7781c0b4.chunk.js",
-    "main.js.map": "/zen-paper/static/js/main.7781c0b4.chunk.js.map",
+    "main.css": "/zen-paper/static/css/main.88963fff.chunk.css",
+    "main.js": "/zen-paper/static/js/main.fa450413.chunk.js",
+    "main.js.map": "/zen-paper/static/js/main.fa450413.chunk.js.map",
     "runtime-main.js": "/zen-paper/static/js/runtime-main.2a28ae99.js",
     "runtime-main.js.map": "/zen-paper/static/js/runtime-main.2a28ae99.js.map",
     "static/js/2.02b3af93.chunk.js": "/zen-paper/static/js/2.02b3af93.chunk.js",
     "static/js/2.02b3af93.chunk.js.map": "/zen-paper/static/js/2.02b3af93.chunk.js.map",
     "index.html": "/zen-paper/index.html",
-    "precache-manifest.b0ad45a94dd8315e0eb7cb7df4aa9982.js": "/zen-paper/precache-manifest.b0ad45a94dd8315e0eb7cb7df4aa9982.js",
+    "precache-manifest.97c58363de7a835b4444e3e7cb303e43.js": "/zen-paper/precache-manifest.97c58363de7a835b4444e3e7cb303e43.js",
     "service-worker.js": "/zen-paper/service-worker.js",
-    "static/css/main.862721ec.chunk.css.map": "/zen-paper/static/css/main.862721ec.chunk.css.map",
+    "static/css/main.88963fff.chunk.css.map": "/zen-paper/static/css/main.88963fff.chunk.css.map",
     "static/js/2.02b3af93.chunk.js.LICENSE.txt": "/zen-paper/static/js/2.02b3af93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a28ae99.js",
     "static/js/2.02b3af93.chunk.js",
-    "static/css/main.862721ec.chunk.css",
-    "static/js/main.7781c0b4.chunk.js"
+    "static/css/main.88963fff.chunk.css",
+    "static/js/main.fa450413.chunk.js"
   ]
 }

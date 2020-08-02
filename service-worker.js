@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zen-paper/precache-manifest.b0ad45a94dd8315e0eb7cb7df4aa9982.js"
+  "/zen-paper/precache-manifest.97c58363de7a835b4444e3e7cb303e43.js"
 );
 
 self.addEventListener('message', (event) => {
